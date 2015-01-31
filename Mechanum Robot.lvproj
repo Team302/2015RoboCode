@@ -125,6 +125,7 @@ AddOutputFilter chunkFilter
 			<Item Name="autonomousDriveFoward.vi" Type="VI" URL="../autonomousDriveFoward.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
+			<Item Name="encoderControlledHolonomicDrive.vi" Type="VI" URL="../encoderControlledHolonomicDrive.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
